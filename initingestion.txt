@@ -1,2 +1,2 @@
 Hi this is my initial commit
-s
+HI feature commit changes now
